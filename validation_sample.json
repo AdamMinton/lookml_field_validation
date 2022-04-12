@@ -1,0 +1,10 @@
+[
+  {
+    "test_name": "Test Name",
+    "project": "project_name",
+    "model": "model_name",
+    "explore": "explore_name",
+    "checks": [{ "field": "view_nane.field_name", "parameter": "sql" }],
+    "validation": "ALL_FIELDS*"
+  }
+]
